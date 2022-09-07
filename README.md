@@ -13,3 +13,5 @@ Những nhược điểm:
 
 Quá trình phân tích và thiết kế chưa hoàn thiện, phải sửa chữa lại nhiều lần.
 Website còn đơn giản, chưa hoàn thiện nhiều chức năng, cần được mở rộng và nâng cấp nhiều lần.
+
+Khi tải App.rar về: Tạo thêm 1 folder tên "Music" vào link drive: https://drive.google.com/drive/folders/1MMNecYf1-jf-xbvSgWJ5jtiMnCGGXnIh?usp=sharing để tải nhạc về.
